@@ -12,3 +12,5 @@ This project is basically a Covid-19 tracker web application which displays the 
 Important Links:
 http://localhost:8080/swagger-ui.html
 http://localhost:8080/corona-api/countries
+
+<!-- GitAds-Verify: ZLZOSAA8LC4RBIVVW5R12PHRWRY4X7TW -->

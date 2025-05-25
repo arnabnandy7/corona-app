@@ -10,8 +10,10 @@ This project is basically a Covid-19 tracker web application which displays the 
 6. Swagger (Open API)
 
 Important Links:
+```
 http://localhost:8080/swagger-ui.html
 http://localhost:8080/corona-api/countries
+```
 
 ## GitAds Sponsored
 [![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=arnabnandy7/corona-app@github)](https://gitads.dev/v1/ad-track?source=arnabnandy7/corona-app@github)

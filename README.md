@@ -13,4 +13,7 @@ Important Links:
 http://localhost:8080/swagger-ui.html
 http://localhost:8080/corona-api/countries
 
-<!-- GitAds-Verify: ZLZOSAA8LC4RBIVVW5R12PHRWRY4X7TW -->
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=arnabnandy7/corona-app@github)](https://gitads.dev/v1/ad-track?source=arnabnandy7/corona-app@github)
+
+
